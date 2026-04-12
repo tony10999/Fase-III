@@ -1,0 +1,28 @@
+Componentes
+1. Cliente (Frontend)
+Interfaz de ventas
+Inventario
+Reportes
+
+
+Servidor de Aplicaciones
+Lógica de negocio
+Cálculos
+Procesamiento de ventas
+
+Servidor Web
+API REST
+Comunicación cliente-servidor
+
+Base de Datos
+Productos
+Ventas
+
+Diagrama conceptual
+Cliente
+   ↓
+Servidor Web / API
+   ↓
+Servidor de Aplicaciones
+   ↓
+Base de Datos
