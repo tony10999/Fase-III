@@ -1,0 +1,16 @@
+Branches principales
+master → Producción (GA)
+develop → Desarrollo (Beta)
+
+Flujo de trabajo
+Crear branch por tarea:
+feature/ventas-ui
+feature/inventario-crud 
+
+Trabajar y hacer commits:
+git commit -m "Agrega interfaz de ventas"
+
+Crear Pull Request → hacia develop
+Validar y mergear
+Cuando Beta esté lista:
+develop → master
