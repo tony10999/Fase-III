@@ -107,7 +107,7 @@ Servidor Web (Tomcat / Spring Boot embebido)
 
 Servidor de Aplicaciones
 
-Base de datos (MySQL o PostgreSQL)
+Base de datos
 Software
 Java 17
 Maven
@@ -151,12 +151,13 @@ Local
 
 mvn spring-boot:run
 
-En la nube (ej. Heroku)
+En la nube 
 Crear aplicación en Heroku
 Configurar variables de entorno
 Subir código:
 
 git push heroku main
+
 
 
 Configuración
@@ -172,6 +173,7 @@ spring.datasource.password=1234
 spring.jpa.hibernate.ddl-auto=update
 
 
+
 Uso
 
 Usuario final
@@ -185,6 +187,7 @@ Administrador
 Gestionar inventario (CRUD)
 Consultar reportes avanzados
 Configurar sistema
+
 
 
 Contribución
