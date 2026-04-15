@@ -61,8 +61,11 @@ Ventas
 
 Cliente
    ↓
+   
 Servidor Web / API
    ↓
+   
 Servidor de Aplicaciones
    ↓
+   
 Base de Datos
