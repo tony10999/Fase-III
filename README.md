@@ -74,15 +74,27 @@ Servidor de Aplicaciones
 Base de Datos
 
 ## Tabla de contenido 
-(#modulo-de-ventas)
-(#modulo-de-ventas-2)
-(#modulo-de-ventas-3)
-(#modulo-de-informes)
-(#modulo-de-inventario)
-(#modulo-de-inventario-2)
-(#modulo-de-inventario-3)
-(#modulo-de-informes-2)
-(#disponibilidad-general)
-(#estrategias-de-git)
-(base-de-datos)
-(#base-de-datos-2)
+(##modulo-de-ventas)
+
+(##modulo-de-ventas-2)
+
+(##modulo-de-ventas-3)
+
+(##modulo-de-informes)
+
+(##modulo-de-inventario)
+
+(##modulo-de-inventario-2)
+
+(##modulo-de-inventario-3)
+
+(##modulo-de-informes-2)
+
+(##disponibilidad-general)
+
+(##estrategias-de-git)
+
+(##base-de-datos)
+
+##base-de-datos-2
+
