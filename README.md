@@ -102,18 +102,18 @@ Base de Datos
 Requerimientos
 
 Servidores
-
 Servidor Web (Tomcat / Spring Boot embebido)
-
 Servidor de Aplicaciones
+Base de datos (MySQL / PostgreSQL)
 
-Base de datos
 Software
+
 Java 17
 Maven
 Git
 
 Paquetes adicionales
+
 Spring Boot
 Spring Web
 Spring Data JPA
